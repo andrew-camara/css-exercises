@@ -1,0 +1,14 @@
+/*css style sheet for exercise 4*/
+/*
+.container .text {
+    color: red;
+    background-color: yellow;
+    text-align: center;
+}
+    */
+/*equivalent code*/ 
+div p {
+    color: red;
+    background-color: yellow;
+    text-align:center;
+}
