@@ -1,0 +1,13 @@
+/*css style sheet*/
+.left, 
+.right {
+ font-size: 28px;
+ font-family: "helvetica", "times new roman", "sans-serif";   
+}
+.left {
+    color: white;
+    background-color: black;
+}
+.right {
+    background-color: yellow
+}
