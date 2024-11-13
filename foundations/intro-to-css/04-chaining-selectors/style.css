@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+
+/*make element with `avatar` and `proportioned` classes 300 pixels wide
+and set height to retain it's proportions*/
+.avatar.proportioned {
+    height: auto;
+    width: 300px
+}
+/*make element with 'avatar' and 'distorted' class 200 pixels wide
+and set height to be twice as big as its width*/
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
+}
